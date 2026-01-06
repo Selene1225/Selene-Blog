@@ -1,0 +1,2 @@
+1. Streamline prompts:  Please rewrite this prompt more concisely while keeping its functional semantics identical. You may remove verbose wording, repetition, or unnecessary explanations, but the required behaviors, constraints, and output structure definitions must remain fully preserved and explicit. Do not alter, relax, or omit any structural or logical requirements.
+
